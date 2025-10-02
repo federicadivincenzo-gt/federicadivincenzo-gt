@@ -48,7 +48,7 @@ In the overview below you will find the featured [posts](https://comingsoon) of 
 ---
 
 ### 📊 GitHub Stats
-![Federica's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+![Federica's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicadivincenzo-gt&show_icons=true&theme=radical)  
 
 ---
 
