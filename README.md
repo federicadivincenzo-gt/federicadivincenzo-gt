@@ -22,6 +22,15 @@ Here I’ll be sharing:
 
 ---
 
+### 🛠 Work in Progress  
+Here’s what I’m currently building:  
+- 🛍 **FLORE Marketplace** → A platform to book unique activities in Amsterdam  
+- 🤝 **Social App** → Helping newcomers connect through activities & chats  
+- ♿ **Accessibility Blog** → Writing about **EAA/WCAG**, best practices & inclusive design  
+- 🎨 **Portfolio** → My digital home, now with a **dedicated blog section**  
+
+---
+
 ### Blog Posts
 In the overview below you will find the featured [posts](https://comingsoon) of my [blog](https://comingsoon/)
 
