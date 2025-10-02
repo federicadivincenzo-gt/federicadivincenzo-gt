@@ -59,12 +59,12 @@ In the overview below you will find the featured [posts](https://comingsoon) of 
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
----
 
+---
+<!--
 ### 📊 GitHub Stats
 ![Federica's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicadivincenzo-gt&show_icons=true&theme=radical)  
-
----
+-->
 
 ### 🌍 Connect with Me  
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
