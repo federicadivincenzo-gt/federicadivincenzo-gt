@@ -5,7 +5,7 @@
 ---
 
 ### 🎉 Welcome to My Brand New GitHub!
-This is the beginning of my GitHub journey 🚀  
+This is the new beginning of my GitHub journey 🚀  
 Here I’ll be sharing:  
 - 💻 Frontend projects (React, Next.js, Vue, Nuxt)  
 - 🌍 Accessibility-focused experiments  
