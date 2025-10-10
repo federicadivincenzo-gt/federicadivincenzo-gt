@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Federica  
 
-💻 Frontend Engineer | 🌍 Living in Amsterdam | ⚡ Accessibility Advocate | ✨ Building cool UIs  
+💻 Frontend Engineer | 🌍 Living in Amsterdam  | ✨ Building cool UIs  
 
 ---
 
@@ -22,6 +22,8 @@ Here I’ll be sharing:
 
 ---
 
+<!--
+
 ### 🛠 Work in Progress  
 Here’s what I’m currently building:  
 - 🛍 **FLORE Marketplace** → A platform to book unique activities in Amsterdam  
@@ -34,13 +36,13 @@ Here’s what I’m currently building:
 ### Blog Posts
 In the overview below you will find the featured [posts](https://comingsoon) of my [blog](https://comingsoon/)
 
-<!-- BLOG_START -->
+ BLOG_START -->
 - [Article 1](https://comingsoon) (2025-01-03)
 - [Article 2](https://comingsoon) (2025-11-30)
 - [Article 3](https://comingsoon) (2025-12-19)
 - [Article 4](https://comingsoon) (2025-01-02)
 - [Article 5](https://comingsoon) (2015-12-14)
-<!-- BLOG_END -->
+<!-- BLOG_E
 
 ---
 
@@ -61,16 +63,16 @@ In the overview below you will find the featured [posts](https://comingsoon) of 
 </p>
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 ![Federica's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicadivincenzo-gt&show_icons=true&theme=radical)  
--->
+
 
 ### 🌍 Connect with Me  
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 - [Portfolio](https://YOUR-PORTFOLIO-LINK.com)  
 - [Instagram](https://instagram.com/YOUR-LINK)  
-
+-->
 ---
 
 ✨ “Brand new GitHub, same passion: code, coffee, and a run along the Amstel.” ✨
